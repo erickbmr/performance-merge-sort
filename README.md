@@ -23,20 +23,17 @@
 Ordem Crescente: 
 
         - 57 comparações;
-        - 34 movimentações;
-        - 0.77s.
+        - 34 movimentações.
 
 Ordem Decrescente: 
 
         - 49 comparações;
-        - 34 movimentações;
-        - 0.675s.
+        - 34 movimentações.
 
 Ordem Aleatória: 
 
         - 61 comparações;
-        - 34 movimentações;
-        - 0.718s.
+        - 34 movimentações.
         
 
 
@@ -47,21 +44,18 @@ Ordem Aleatória:
 Ordem Crescente: 
 
         - 1068 comparações;
-        - 672 movimentações;
-        - 0.686s.
+        - 672 movimentações.
         
 
 Ordem Decrescente: 
 
         - 988 comparações;
-        - 672 movimentações;
-        - 0.684s.
+        - 672 movimentações.
 
 Ordem Aleatória: 
 
         - 1432 comparações;
-        - 672 movimentações;
-        - 0.765s.
+        - 672 movimentações.
 
 
 
@@ -71,20 +65,17 @@ Ordem Aleatória:
 Ordem Crescente: 
 
         - 15132 comparações;
-        - 9976 movimentações;
-        - 0.676s.
+        - 9976 movimentações.
 
 Ordem Decrescente: 
 
         - 14980 comparações;
-        - 9976 movimentações;
-        - 0.676s.
+        - 9976 movimentações.
 
 Ordem Aleatória: 
 
         - 22518 comparações;
-        - 9976 movimentações;
-        - 0.758s.
+        - 9976 movimentações.
 
 ## Referências
 
