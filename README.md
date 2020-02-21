@@ -3,6 +3,14 @@
  O merge sort é um algoritmo de ordenação do tipo "dividir para conquistar". Ele é estável na maioria das implementações, ou seja, se existir dois elementos com a mesma chave ele vai colocar o elemento que aparece primeiro antes do elemento repetido que apareceu em seguida.
  É um algoritmo que divide o problema em pequenas partes, classifica as duas metades recursivamente e por fim une elas.
 
+ ## Como executar
+ 
+ Clone o repositório para seu dispositivo, abra o terminal no diretório e execute o código:
+ 
+ ```
+ javac main.java && java main
+ ```
+ 
  ## Exemplo didático
 
  ![merge-gif](assets/mergeSort.gif)
