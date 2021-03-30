@@ -86,9 +86,9 @@ Ordem Aleatória:
 
 #### Autores
 
-* Brinner Borges. LinkedIn: https://www.linkedin.com/in/brinner-borges-38a9b0174/
-* Erick Moreira. LinkedIn: https://www.linkedin.com/in/erickbmr/
-* Renan Henrique. LinkedIn: https://www.linkedin.com/in/renan-henrique-379847194/
+* Brinner Borges. 
+* Erick Moreira. 
+* Renan Henrique. 
 
 
     
